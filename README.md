@@ -135,17 +135,11 @@ GEMINI_API_KEY=YOUR_API_KEY
 - Document summarization
 - Context-aware enterprise Q&A
 
----
+---  
+SCREENSHOTS 
 
-## 📸 Screenshots
-
-Add screenshots here:
-
-- Login Page
-- Dashboard
-- PDF Upload
-- Document Q&A
-- Logs Viewer
+<img width="1920" height="1080" alt="Screenshot (430)" src="https://github.com/user-attachments/assets/a01044cf-4ae1-44be-8269-7179ee9fd7d4" />
+<img width="1920" height="1080" alt="Screenshot (431)" src="https://github.com/user-attachments/assets/90af5432-39b0-48a6-ae6b-53b28ce823a5" />
 
 ---
 
