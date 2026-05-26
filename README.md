@@ -138,8 +138,8 @@ GEMINI_API_KEY=YOUR_API_KEY
 ---  
 SCREENSHOTS 
 
-<img width="1920" height="1080" alt="Screenshot (430)" src="https://github.com/user-attachments/assets/a01044cf-4ae1-44be-8269-7179ee9fd7d4" />
-<img width="1920" height="1080" alt="Screenshot (431)" src="https://github.com/user-attachments/assets/90af5432-39b0-48a6-ae6b-53b28ce823a5" />
+<img width="1224" height="812" alt="Screenshot (430)" src="https://github.com/user-attachments/assets/daec27ad-7551-4dd0-9d46-521694d46b27" />
+<img width="1136" height="846" alt="Screenshot (434)" src="https://github.com/user-attachments/assets/8afa6b65-cc16-494c-8b17-9dd3615c9452" />
 
 ---
 
